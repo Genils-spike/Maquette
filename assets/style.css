@@ -205,6 +205,11 @@ h3{
 	transition-duration: 500ms;
 }
 
+.facebook{
+	margin: 80px 0 50px 0;
+	text-align: center;
+}
+
 /*=====FOOTER=====*/
 
 footer{
